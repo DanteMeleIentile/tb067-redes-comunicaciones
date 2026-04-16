@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (por si armás uno)
+venv/
+env/
+.env/
+
+# Archivos de entorno y configuraciones de VS Code
+.vscode/
+.env
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
